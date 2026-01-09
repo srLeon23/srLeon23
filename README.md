@@ -6,65 +6,60 @@
   </a>
 </div>
 
-###
+---
 
 <div align="center">
-   <br>
-   <p align="center">
-      Soy un profesional apasionado por el <b>Aseguramiento de Calidad (QA)</b> y el desarrollo de software. Me especializo en la <b>automatización de procesos</b> para mejorar la eficiencia y precisión técnica de los proyectos.
-      <br><br>
-      Me motiva aplicar la tecnología para resolver problemas reales, combinando herramientas como <b>Python y Selenium</b> con una sólida atención al detalle y trabajo colaborativo.
+   <h3>🚀 Sobre mí</h3>
+   <p>
+      Soy un profesional apasionado por el <b>Aseguramiento de Calidad (QA)</b> y el desarrollo de software. 
+      <br>
+      Me especializo en la <b>automatización de procesos</b> (Python & Selenium) para mejorar la eficiencia técnica.
    </p>
 </div>
 
-###
+---
+
+<table border="0" align="center">
+  <tr>
+    <td width="60%" valign="top">
+      <h3>🛠️ Mis Herramientas</h3>
+      <div align="left">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java" />
+        <img width="10" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
+        <img width="10" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp" />
+        <img width="10" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
+        <br><br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
+        <img width="10" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium" />
+        <img width="10" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="jenkins" />
+        <img width="10" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure" />
+        <img width="10" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql" />
+      </div>
+      <br>
+      <h3>📫 Contacto</h3>
+      <a href="https://www.linkedin.com/in/leonfernmunoz" target="_blank">
+        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+      </a>
+      <a href="mailto:leonfern.munoz@gmail.com" target="_blank">
+        <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+      </a>
+    </td>
+    <td width="40%" align="center">
+      <img src="./Leo-Chibi.png" width="100%" alt="Leonardo Chibi" />
+    </td>
+  </tr>
+</table>
+
+---
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=srLeon23&show_icons=true&theme=radical&include_all_commits=true&count_private=true&locale=es" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srLeon23&layout=compact&theme=radical&locale=es" />
-  </a>
-</div>
-
-###
-
-<img align="right" height="250" src="./Leo-Chibi.jpg" alt="Leonardo Chibi" />
-
-<div align="left">
-  <h3>🛠️ Mis Herramientas y Tecnologías</h3>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" alt="csharp logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="35" alt="selenium logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="35" alt="jenkins logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="35" alt="azure logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo" />
-</div>
-
-<br>
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/leonfernmunoz" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-  <a href="mailto:leonfern.munoz@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-</div>
-
-<br><br>
-
-<div align="center">
+  <h3>🐍 Mi Actividad en GitHub</h3>
   <img src="https://raw.githubusercontent.com/srLeon23/srLeon23/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
