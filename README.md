@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="250" src="./Leo-Chibi.jpg" alt="Leonardo Chibi" />
+<img align="right" height="250" src="./Leo-Chibi.png" alt="Leonardo Chibi" />
 
 ###
 
